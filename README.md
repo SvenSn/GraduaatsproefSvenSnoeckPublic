@@ -5,7 +5,7 @@
 SamenSterk is een mobiele applicatie ontwikkeld met React Native, Expo en TypeScript. De app bevat cognitieve oefeningen en puzzels zoals Stroop en Go/No‑Go, plus planning, accountbeheer en instellingen.
 
 ## Downloads
-- Android APK (Expo/EAS): https://expo.dev/artifacts/eas/aAfqRQsz1uQ477FqovNtHL.apk
+- Android APK (Expo/EAS): https://expo.dev/artifacts/eas/jCjBBnroveRzFrwnUZZjvA.apk
 
 ## Kernfunctionaliteiten
 - Stroop- en Go/No‑Go-puzzels  
